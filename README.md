@@ -11,6 +11,10 @@ Dropdown Menus — For selecting “From” and “To” currencies.
 Error Handling — Handles invalid inputs gracefully.
 Extendable — Can be upgraded to use live exchange rate APIs.
 
+### Screenshots
+
+![Output](Screenshots/Output.png)
+
 
 Technologies Used
 
